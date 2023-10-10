@@ -14,3 +14,18 @@
   color: #1ed760;
   opacity: 100!important;
 }
+
+.PremiumDuo{
+  background: #2D46B9;
+  display: flex;
+  overflow: hidden;
+  padding: 0px 375px;
+  flex-direction: column;
+  align-items: center;
+}
+
+.content{
+  background-color: yellowgreen;
+  height: 421px;
+  flex: 1 0 0;
+}
