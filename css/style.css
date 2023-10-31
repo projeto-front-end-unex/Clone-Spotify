@@ -88,3 +88,36 @@ section.premiumDuo .row-botoes>*{
   font-size: 0.6875rem;
 }
 
+section.todoMundo{
+  padding-top: 75px;
+  padding-left: 15px; 
+  padding-right:15px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+section.todoMundo h2.titulo{    
+  font-family:Helvetica,Arial,sans-serif;
+  font-size: 40px;
+  font-weight: 900;
+  color: black;
+  padding: 60px;
+  padding-bottom: 0px;
+  letter-spacing: -2px;
+}
+/* @media screen and (max-width) */
+
+section.todoMundo h3.subtitulo{
+  padding-top: 15px;
+  padding-left: 60px;
+  font-size: 24px;
+  font-family:Helvetica,Arial,sans-serif;
+}
+
+section.todoMundo img{
+  overflow-clip-margin: content-box;
+  overflow: clip;
+  padding: bottom 0px;;
+}
+
+
