@@ -140,3 +140,35 @@ margin-top: 30px;
 padding-bottom: 24px;
 margin: 0px 68px;
 }
+
+section.CanceleQuando{
+  color: #000000;
+  text-align: center;
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+
+section.CanceleQuando img{
+  width: 54px;
+}
+
+section.CanceleQuando h1{
+  font-weight: 900;
+  margin-top: 16px;
+  margin-bottom: 30px;
+}
+
+section.AssPremiumDuo{
+  background-color: #2d46b9;
+  color: #FFF;
+  padding-top: 70px;
+  padding-bottom: 40px;
+}
+
+section.AssPremiumDuo h1{
+  margin-bottom: 70px;
+}
+
+section.AssPremiumDuo div.avisos{
+  margin-top: 70px;
+}
